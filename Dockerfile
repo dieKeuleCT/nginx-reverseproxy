@@ -1,5 +1,5 @@
 FROM nginx:1.11.9
-MAINTAINER Jason Wilder mail@jasonwilder.com
+MAINTAINER Michael Koehlmeier koehlmeier@gmail.com
 
 # Install wget and install/updates certificates
 RUN apt-get update \
